@@ -9,24 +9,24 @@ Features ::
 4) Real-Time Results: Instant prediction and confidence score for uploaded images.
 
 File Overview ::
-Notebook.ipynb: Contains data preprocessing, model training, and evaluation code.
-app.py: Flask-based Python script for serving the web application.
-model.h5: Trained deep learning model file saved in Keras format.
-requirements.txt: List of dependencies required for the project.
-signup.db: SQLite database for managing user registration and authentication.
-static/: Directory containing static assets such as CSS, JavaScript, and images.
-templates/: HTML templates for the web application.
-run.bat: Batch script for running the application on Windows.
+1) Notebook.ipynb: Contains data preprocessing, model training, and evaluation code.
+2) app.py: Flask-based Python script for serving the web application.
+3) model.h5: Trained deep learning model file saved in Keras format.
+4) requirements.txt: List of dependencies required for the project.
+5) signup.db: SQLite database for managing user registration and authentication.
+6) static/: Directory containing static assets such as CSS, JavaScript, and images.
+7) templates/: HTML templates for the web application.
+8) run.bat: Batch script for running the application on Windows.
 
 Data Sources ::
 The project uses the HAM10000 dataset, which contains labeled skin lesion images, including:
-Melanocytic nevi
-Melanomas etc..
+1) Melanocytic nevi
+2) Melanomas etc..
 
 Key Metrics and Insights ::
-Model Accuracy: Classification accuracy of the trained deep learning model.
-Loss Trends: Visualization of training and validation loss curves.
-Prediction Confidence: Confidence scores provided for each classification.
+1) Model Accuracy: Classification accuracy of the trained deep learning model.
+2) Loss Trends: Visualization of training and validation loss curves.
+3) Prediction Confidence: Confidence scores provided for each classification.
 
 Custom Features ::
 The project includes custom features such as:
