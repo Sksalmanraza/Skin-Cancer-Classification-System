@@ -3,10 +3,10 @@ Skin Cancer Classification System
 This repository contains the Skin Cancer Classification System, a deep learning-based project designed to classify skin lesions using the HAM10000 dataset. It provides a web-based interface for users to upload images and get diagnostic predictions.
 
 Features ::
-Interactive Web Application: Upload and analyze skin lesion images through an intuitive interface.
-Deep Learning Model: A robust model trained to classify images into skin cancer categories.
-User Authentication: Secure login and registration functionality.
-Real-Time Results: Instant prediction and confidence score for uploaded images.
+1) Interactive Web Application: Upload and analyze skin lesion images through an intuitive interface.
+2) Deep Learning Model: A robust model trained to classify images into skin cancer categories.
+3) User Authentication: Secure login and registration functionality.
+4) Real-Time Results: Instant prediction and confidence score for uploaded images.
 
 File Overview ::
 Notebook.ipynb: Contains data preprocessing, model training, and evaluation code.
